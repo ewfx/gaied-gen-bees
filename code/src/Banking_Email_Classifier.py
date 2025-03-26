@@ -1,5 +1,6 @@
 from fastapi import FastAPI, File, UploadFile, HTTPException
 from typing import List
+from parseioc import extract_banking_context_with_parsio
 from transformers import pipeline
 import torch
 from PyPDF2 import PdfReader
@@ -116,7 +117,7 @@ async def classify_emails(files: List[UploadFile] = File(...)):
             email_text = extract_text_from_file(file)
 
             # Extract and classify contexts
-            # banking_contexts = extract_banking_context(email_text)
+            banking_contexts = extract_banking_context_with_parsio(email_text)
             classification = classify_email_contexts(email_text)
 
             results.append({"filename": file.filename, "classification": classification})
