@@ -1,0 +1,73 @@
+Return-Path: <banking@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.1])
+    by recipient.example.net with ESMTP id ABC123DEF;
+    Mon, 24 Mar 2025 21:40:00 -0400 (EDT)
+Subject: Bank Statement Q1 2025 – Detailed Transaction Report & Feedback
+From: "ABC Bank" <banking@example.com>
+To: "Valued Customer" <customer@example.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="boundary12345"
+
+--boundary12345
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Valued Customer,
+
+Please find attached your bank statement for the first quarter of 2025.
+Below is a summary of your account activity and financial data for the period:
+
+Account Number: XXXX-XXXX-XXXX-1234
+Account Type: Checking Account
+Statement Period: January 1, 2025 – March 31, 2025
+
+Transaction Summary:
+------------------------------------------------------
+Date         Description                Amount      Balance
+------------------------------------------------------
+2025-01-15   ATM Withdrawal             -$200.00    $4,800.00
+2025-01-20   Salary Credit              +$3,000.00  $7,800.00
+2025-02-05   Grocery Store Purchase     -$120.50    $7,679.50
+2025-02-10   Utility Payment            -$150.00    $7,529.50
+2025-02-18   Online Transfer            -$500.00    $7,029.50
+2025-03-05   Dining Out                 -$75.25     $6,954.25
+2025-03-15   Mobile Deposit             +$1,200.00  $8,154.25
+2025-03-20   Online Purchase            -$350.00    $7,804.25
+------------------------------------------------------
+Total Credits: $4,200.00
+Total Debits:  -$1,295.75
+
+Additional Financial Data:
+- Interest Earned: $5.25
+- Fees Charged: $2.50
+- Overdraft Protection: Active
+
+Feedback:
+------------------------------------------------------
+We appreciate the prompt and professional service provided by ABC Bank.
+Your attention to detail and customer care make banking a delight.
+I would also like to request the initiation of a mobile banking service,
+as it would greatly enhance the convenience and accessibility of managing my account on the go.
+
+Please review the detailed PDF statement attached for complete transaction details,
+including descriptions, reference numbers, and timestamps.
+
+If you have any questions regarding your account or my feedback,
+do not hesitate to contact our customer service department.
+
+Thank you for banking with ABC Bank.
+
+Sincerely,
+ABC Bank Customer Service
+
+--boundary12345
+Content-Type: application/pdf; name="Statement_Q1_2025.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="Statement_Q1_2025.pdf"
+
+JVBERi0xLjMKJcTl8uXrp/Og0MTGCjEgMCBvYmoKPDwvVHlwZS9QYWdlCi9NZWRpYUJveFswIDAgNjEyIDc5
+Ml0KL0NvbnRlbnRzIDIgMCBSCj4+CmVuZG9iagoKMiAwIG9iago8PC9MZW5ndGggMzQ+PgpzdHJlYW0KICAg
+QkVUIFNBTVBMRSBQT0xZRUQgRE9DVU1FTlRTOiBBQkNCQU5LIFBST0ZJTEUKICAgICAgICAgIEJDRU1FTlQg
+Q0xBU1MgRVhDTEFTIFRFWFQgRVhTVFJJQ1RJT04KICAgIEdFTkVSQVRFRCBGT1IgVEVTVC4KICAgIEZvciBl
+eGFtcGxlIHB1cnBvc2VzLCB0aGlzIG1vY2sgUERGIFN0YXRlbWVudCBkb2VzIG5vdCBjb250YWluIHJlYWwK
+ICAgIGNvbnRlbnQgZnJlZSBmaWxlIGRhdGEuCgpleGluZQoKLS0tYm91bmRhcnkxMjM0NS0tLQplbmRvYmoK

@@ -1,0 +1,62 @@
+Return-Path: <customer@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.100])
+    by banksupport.example.com with ESMTP id DEF456GHI;
+    Tue, 25 Mar 2025 10:15:00 -0400 (EDT)
+Subject: Inquiry: Transaction Details & Mobile Banking Service Request
+From: "John Doe" <customer@example.com>
+To: "ABC Bank Support" <support@abc-bank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary98765"
+
+--boundary98765
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear ABC Bank Support,
+
+I recently noticed a transaction on my account that I do not fully recognize.
+Details are as follows:
+    - Date: 2025-03-20
+    - Transaction: Online Purchase at XYZ Retailer
+    - Amount: $350.00
+I kindly request a detailed explanation and a copy of the receipt or reference number 
+associated with this transaction. Please let me know if any additional information is 
+required from my side.
+
+I would also like to request activation of your mobile banking service. I believe this 
+service will greatly enhance my ability to manage my account on the go. Kindly provide 
+the necessary steps or a contact person to facilitate the activation process.
+
+Thank you for your prompt attention to these matters.
+
+Sincerely,
+John Doe
+Customer ID: 123456789
+
+--boundary98765
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear ABC Bank Support,</p>
+    <p>
+      I recently noticed a transaction on my account that I do not fully recognize.<br>
+      <strong>Details:</strong><br>
+      Date: 2025-03-20<br>
+      Transaction: Online Purchase at XYZ Retailer<br>
+      Amount: $350.00<br>
+      I kindly request a detailed explanation and a copy of the receipt or reference number associated 
+      with this transaction. Please let me know if any additional information is required from my side.
+    </p>
+    <p>
+      I would also like to request activation of your mobile banking service. I believe this service 
+      will greatly enhance my ability to manage my account on the go. Kindly provide the necessary steps 
+      or a contact person to facilitate the activation process.
+    </p>
+    <p>Thank you for your prompt attention to these matters.</p>
+    <p>Sincerely,<br>John Doe<br>Customer ID: 123456789</p>
+  </body>
+</html>
+
+--boundary98765--

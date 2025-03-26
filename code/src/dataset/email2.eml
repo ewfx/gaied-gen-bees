@@ -1,0 +1,24 @@
+Return-Path: <customer@example.com>
+Received: from wf@genai.com (wf@genai.com  [192.0.2.100])
+    by banksupport.wf.com with ESMTP id DEF456GHI;
+    Tue, 25 Mar 2025 10:15:00 -0400 (EDT)
+Subject: Transaction: Amount credited to your account
+From: "Wolf fiesta" <wf@genai.com>
+To: "Shiva" <shiva@genai-customer.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary98765"
+
+--boundary98765
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+Your transaction of $1,200 has been successfully processed to account #123456789. 
+
+For any issues regarding your credit card payment, contact us.
+
+Thank you,
+Bank Support Team
+
+--boundary98765
